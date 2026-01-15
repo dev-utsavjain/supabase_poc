@@ -1,0 +1,9 @@
+# Local environment variables
+.env
+
+# Local database
+supabase_manager.db
+data/
+
+# Binaries for build
+bin/
